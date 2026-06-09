@@ -1,6 +1,6 @@
 cask "aiview" do
-  version "0.7.0"
-  sha256 "318605a36ba8c924ffd061053acba01dcec18e448627a4a11faaffd44c2484b7"
+  version "0.7.1"
+  sha256 "7484c2bf479e9f5b0765e589cbd17eca076a846a105497f81497228f7bf34ab9"
 
   url "https://github.com/hummer98/AIview/releases/download/v#{version}/AIview-#{version}.zip"
   name "AIview"
