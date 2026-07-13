@@ -4,7 +4,7 @@ cask "aiview" do
 
   url "https://github.com/hummer98/AIview/releases/download/v#{version}/AIview-#{version}.zip"
   name "AIview"
-  desc "High-performance image viewer for macOS optimized for large image collections"
+  desc "High-performance image viewer optimized for large image collections"
   homepage "https://github.com/hummer98/AIview"
 
   depends_on macos: :sonoma
