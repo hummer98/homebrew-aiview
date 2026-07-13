@@ -7,7 +7,7 @@ cask "aiview" do
   desc "High-performance image viewer for macOS optimized for large image collections"
   homepage "https://github.com/hummer98/AIview"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "AIview.app"
 
